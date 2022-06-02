@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Cage Maintenance" max_length="40" name="x_cdltd_shark_cage_cage_maintenance" sizeclass="0" type="collection">
+        <element label="Cost" max_length="40" name="cost" type="string"/>
+    </element>
+</database>

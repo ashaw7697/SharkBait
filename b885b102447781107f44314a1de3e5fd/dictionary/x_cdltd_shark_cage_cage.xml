@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Cage" max_length="40" name="x_cdltd_shark_cage_cage" sizeclass="1" type="collection">
+        <element label="CageID" max_length="40" name="cageid" type="string"/>
+        <element label="Capacity" max_length="40" name="capacity_size" type="string"/>
+        <element label="Height" max_length="40" name="height" type="string"/>
+        <element label="Length" max_length="40" name="length" type="string"/>
+        <element choice="3" default="Iron" label="Material" max_length="40" name="material" reference="x_cdltd_shark_cage_material" type="reference">
+            <choice>
+                <element inactive_on_update="false" label="Bone"/>
+                <element inactive_on_update="false" label="Diamond"/>
+                <element inactive_on_update="false" label="Iron"/>
+                <element inactive_on_update="false" label="Steel"/>
+                <element inactive_on_update="false" label="Wood"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Area" max_length="40" name="u_area" read_only="true" type="string"/>
+        <element label="Width" max_length="40" name="width" type="string"/>
+    </element>
+</database>

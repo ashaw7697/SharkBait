@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="material" table="x_cdltd_shark_cage_cage" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>material</element>
+            <name>x_cdltd_shark_cage_cage</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-01 19:45:12</sys_created_on>
+            <sys_id>895b39c6447781107f44314a1de3e594</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>material</sys_name>
+            <sys_package display_value="Shark Cage Management" source="x_cdltd_shark_cage">b885b102447781107f44314a1de3e5fd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Shark Cage Management">b885b102447781107f44314a1de3e5fd</sys_scope>
+            <sys_update_name>sys_choice_x_cdltd_shark_cage_cage_material</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-01 19:45:12</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>material</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bone</label>
+            <language>en</language>
+            <name>x_cdltd_shark_cage_cage</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-01 19:46:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>038b39c6447781107f44314a1de3e5d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-01 19:46:59</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>material</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Diamond</label>
+            <language>en</language>
+            <name>x_cdltd_shark_cage_cage</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-01 19:46:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>028bf9c6447781107f44314a1de3e59e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-01 19:46:09</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>material</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Iron</label>
+            <language>en</language>
+            <name>x_cdltd_shark_cage_cage</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-01 19:45:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c55b39c6447781107f44314a1de3e5b1</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-01 19:46:02</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>material</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Steel</label>
+            <language>en</language>
+            <name>x_cdltd_shark_cage_cage</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-01 19:46:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ae5bbdc6447781107f44314a1de3e5d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-01 19:46:05</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>material</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Wood</label>
+            <language>en</language>
+            <name>x_cdltd_shark_cage_cage</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-01 19:45:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>684bf1c6447781107f44314a1de3e5ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-01 19:45:12</sys_updated_on>
+            <value/>
+        </sys_choice>
+    </sys_choice>
+</record_update>

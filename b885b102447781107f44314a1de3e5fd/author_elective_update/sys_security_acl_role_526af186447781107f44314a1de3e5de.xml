@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-01 19:41:11</sys_created_on>
+        <sys_id>526af186447781107f44314a1de3e5de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_shark_cage_cage.x_cdltd_shark_cage.cage_user</sys_name>
+        <sys_package display_value="Shark Cage Management" source="x_cdltd_shark_cage">b885b102447781107f44314a1de3e5fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shark Cage Management">b885b102447781107f44314a1de3e5fd</sys_scope>
+        <sys_security_acl display_value="x_cdltd_shark_cage_cage">9a6af186447781107f44314a1de3e5db</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_526af186447781107f44314a1de3e5de</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 19:41:11</sys_updated_on>
+        <sys_user_role display_value="x_cdltd_shark_cage.cage_user" name="x_cdltd_shark_cage.cage_user">718979c2447781107f44314a1de3e5ec</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shark Cage Management">b885b102447781107f44314a1de3e5fd</application>
+        <file_path/>
+        <instance_id>e0a484651bf70d54637120622a4bcb75</instance_id>
+        <instance_name>adf-may-425-dev-004</instance_name>
+        <name>sys_security_acl_role_526af186447781107f44314a1de3e5de</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-06-01 19:41:11</sys_created_on><sys_id>526af186447781107f44314a1de3e5de</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_cdltd_shark_cage_cage.x_cdltd_shark_cage.cage_user</sys_name><sys_package display_value="Shark Cage Management" source="x_cdltd_shark_cage">b885b102447781107f44314a1de3e5fd</sys_package><sys_policy/><sys_scope display_value="Shark Cage Management">b885b102447781107f44314a1de3e5fd</sys_scope><sys_security_acl display_value="x_cdltd_shark_cage_cage">9a6af186447781107f44314a1de3e5db</sys_security_acl><sys_update_name>sys_security_acl_role_526af186447781107f44314a1de3e5de</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-01 19:41:11</sys_updated_on><sys_user_role display_value="x_cdltd_shark_cage.cage_user" name="x_cdltd_shark_cage.cage_user">718979c2447781107f44314a1de3e5ec</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1076204384</payload_hash>
+        <record_name>x_cdltd_shark_cage_cage.x_cdltd_shark_cage.cage_user</record_name>
+        <reverted_from/>
+        <source>b4853902447781107f44314a1de3e54b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-01 19:41:11</sys_created_on>
+        <sys_id>d26af186447781107f44314a1de3e5e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18120c949640000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 19:41:11</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>1e6af18617778110e069dd93085f91df</update_guid>
+        <update_guid_history>1e6af18617778110e069dd93085f91df:1076204384</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_cdltd_shark_cage_cage.x_cdltd_shark_cage.cage_user">119a3986447781107f44314a1de3e5c2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-01 19:41:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>5fa60f661a7b404e910df3c802223d84</sys_id>
+        <sys_metadata>526af186447781107f44314a1de3e5de</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_shark_cage_cage.x_cdltd_shark_cage.cage_user</sys_name>
+        <sys_package display_value="Shark Cage Management" source="x_cdltd_shark_cage">b885b102447781107f44314a1de3e5fd</sys_package>
+        <sys_parent display_value="">9a6af186447781107f44314a1de3e5db</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Shark Cage Management">b885b102447781107f44314a1de3e5fd</sys_scope>
+        <sys_scope_delete display_value="">6b0d7b9576504ed0b60ff50e90968c21</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_526af186447781107f44314a1de3e5de</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_526af186447781107f44314a1de3e5de">d26af186447781107f44314a1de3e5e0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 19:41:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
