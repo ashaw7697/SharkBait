@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="cageid" label="Model number" language="en" table="x_cdltd_shark_cage_cage">
+    <sys_documentation element="manufacturer" label="Manufacturer" language="en" table="x_cdltd_shark_cage_cage">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>cageid</element>
+            <element>manufacturer</element>
             <help/>
             <hint/>
-            <label>Model number</label>
+            <label>Manufacturer</label>
             <language>en</language>
             <name>x_cdltd_shark_cage_cage</name>
-            <plural>Model numbers</plural>
+            <plural>Manufacturers</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-06-01 20:05:22</sys_created_on>
-            <sys_id>68ff390e447781107f44314a1de3e59f</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_name>Model number</sys_name>
+            <sys_created_on>2022-06-02 17:21:53</sys_created_on>
+            <sys_id>df1422da5dfb01107f44a0263f34c692</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Manufacturer</sys_name>
             <sys_package display_value="Shark Cage Management" source="x_cdltd_shark_cage">b885b102447781107f44314a1de3e5fd</sys_package>
             <sys_policy/>
             <sys_scope display_value="Shark Cage Management">b885b102447781107f44314a1de3e5fd</sys_scope>
-            <sys_update_name>sys_documentation_x_cdltd_shark_cage_cage_cageid_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_cdltd_shark_cage_cage_manufacturer_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-06-02 17:20:07</sys_updated_on>
+            <sys_updated_on>2022-06-02 17:21:53</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

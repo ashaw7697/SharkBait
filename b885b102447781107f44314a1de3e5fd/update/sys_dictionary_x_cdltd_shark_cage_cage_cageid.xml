@@ -14,7 +14,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>CageID</column_label>
+        <column_label>Model number</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -22,7 +22,7 @@
         <delete_roles/>
         <dependent/>
         <dependent_on_field/>
-        <display>false</display>
+        <display>true</display>
         <dynamic_creation>false</dynamic_creation>
         <dynamic_creation_script/>
         <dynamic_default_value/>
@@ -54,14 +54,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-06-01 20:05:22</sys_created_on>
         <sys_id>35bf790e447781107f44314a1de3e530</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>CageID</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Model number</sys_name>
         <sys_package display_value="Shark Cage Management" source="x_cdltd_shark_cage">b885b102447781107f44314a1de3e5fd</sys_package>
         <sys_policy/>
         <sys_scope display_value="Shark Cage Management">b885b102447781107f44314a1de3e5fd</sys_scope>
         <sys_update_name>sys_dictionary_x_cdltd_shark_cage_cage_cageid</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-01 20:05:22</sys_updated_on>
+        <sys_updated_on>2022-06-02 17:51:43</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
